@@ -22,7 +22,6 @@ CREATE TABLE [dbo].[BikeData2023](
 
 /*Data from each table was inserted into the newly created table a total of 5,719,877 rows*/
 
-/*
 Insert into BikeData2023
 SELECT 
 *
@@ -71,4 +70,3 @@ UNION ALL
 SELECT 
 *
 FROM BikeDataDec2023
-*/
